@@ -10,3 +10,7 @@ a place to hold favicon for websites
 
 
 ```
+
+made with 
+
+https://favicon.io/favicon-converter/
