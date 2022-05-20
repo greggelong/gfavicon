@@ -14,3 +14,6 @@ a place to hold favicon for websites
 made with 
 
 https://favicon.io/favicon-converter/
+
+
+you can add html to head or even to the top of the markdown page with gh-pages
